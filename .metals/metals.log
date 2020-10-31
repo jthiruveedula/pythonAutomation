@@ -3,3 +3,5 @@
 2020.10.31 17:18:22 WARN  no build tool detected in workspace 'C:\Users\Jagadeesh\Desktop\python\practice'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 Oct 31, 2020 5:22:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTraceNotification
+Oct 31, 2020 5:24:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification

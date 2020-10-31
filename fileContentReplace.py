@@ -6,7 +6,7 @@ for i in lst:
     r=filer.read()
     r=r.replace("pattern","replacePattern")
     filer.close()
-  with open(filepath+"\"+i,'w') as filew:
+  with open(filepath+"/"+i,'w') as filew:
     filew.write(r)
     filew.close()
     
